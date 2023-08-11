@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-def add(a, b):
+def add_0(a, b):
     print("{0} + {1} = {2}".format(a, b,a + b))
 
-add(1,2)
+add_0(1,2)
